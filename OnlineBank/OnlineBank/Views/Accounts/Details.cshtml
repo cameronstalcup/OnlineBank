@@ -1,0 +1,58 @@
+﻿@model OnlineBank.Models.Account
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Account</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Type)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Type)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateOpened)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateOpened)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateClosed)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateClosed)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Balance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Balance)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InterestRate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InterestRate)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.AccountID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

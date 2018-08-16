@@ -1,0 +1,51 @@
+﻿@model IEnumerable<OnlineBank.Models.Loan>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DateOpened)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateClosed)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Balance)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InterestRate)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateOpened)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateClosed)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Balance)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InterestRate)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.LoanID }) |
+            @Html.ActionLink("Details", "Details", new { id = item.LoanID }) |
+            @Html.ActionLink("Make Payment", "MakePayment", new { id = item.LoanID })
+        </td>
+    </tr>
+}
+
+</table>

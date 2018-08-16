@@ -1,0 +1,14 @@
+C:\Users\camer\Documents\Revature\Week 3 MVC\OnlineBank\OnlineBank\OnlineBank.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\camer\Documents\Revature\Week 3 MVC\OnlineBank\OnlineBank\OnlineBank.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\camer\Documents\Revature\Week 3 MVC\OnlineBank\OnlineBank\OnlineBank.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\camer\Documents\Revature\Week 3 MVC\OnlineBank\OnlineBank\OnlineBank.Test\bin\Debug\OnlineBank.Test.dll
+C:\Users\camer\Documents\Revature\Week 3 MVC\OnlineBank\OnlineBank\OnlineBank.Test\bin\Debug\OnlineBank.Test.pdb
+C:\Users\camer\Documents\Revature\Week 3 MVC\OnlineBank\OnlineBank\OnlineBank.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\camer\Documents\Revature\Week 3 MVC\OnlineBank\OnlineBank\OnlineBank.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\camer\Documents\Revature\Week 3 MVC\OnlineBank\OnlineBank\OnlineBank.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\camer\Documents\Revature\Week 3 MVC\OnlineBank\OnlineBank\OnlineBank.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\camer\Documents\Revature\Week 3 MVC\OnlineBank\OnlineBank\OnlineBank.Test\obj\Debug\OnlineBank.Test.csprojAssemblyReference.cache
+C:\Users\camer\Documents\Revature\Week 3 MVC\OnlineBank\OnlineBank\OnlineBank.Test\obj\Debug\OnlineBank.Test.csproj.CoreCompileInputs.cache
+C:\Users\camer\Documents\Revature\Week 3 MVC\OnlineBank\OnlineBank\OnlineBank.Test\obj\Debug\OnlineBank.Test.csproj.CopyComplete
+C:\Users\camer\Documents\Revature\Week 3 MVC\OnlineBank\OnlineBank\OnlineBank.Test\obj\Debug\OnlineBank.Test.dll
+C:\Users\camer\Documents\Revature\Week 3 MVC\OnlineBank\OnlineBank\OnlineBank.Test\obj\Debug\OnlineBank.Test.pdb
